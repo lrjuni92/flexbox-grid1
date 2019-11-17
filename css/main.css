@@ -123,6 +123,7 @@ header {
   flex-flow: wrap;
 }
 
+/** Main content and the three subcontent columns **/
 #content {
   background: #222;
   background: rgba(179, 204, 255, 0.7);
@@ -165,7 +166,17 @@ header {
   border-right: 1px solid white;
 }
 
+/** Social Media **/
+#contact {
+  color: #b3ccff;
+}
 
+#contact ul{
+  display: inline;
+}
+#contact ul li{
+  
+}
 
 /* ==========================================================================
    Helper classes
