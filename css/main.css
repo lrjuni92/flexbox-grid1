@@ -172,10 +172,18 @@ header {
 }
 
 #contact ul{
-  display: inline;
+  list-style: none;
+  padding-top: 20px;
 }
+
 #contact ul li{
-  
+  display: inline;
+  padding-left: 40px;
+}
+
+#contact ul li img {
+  height: 50px;
+  width: 50px;
 }
 
 /* ==========================================================================
